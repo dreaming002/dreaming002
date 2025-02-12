@@ -1,7 +1,7 @@
 <h1>-  Hi, I’m @dreaming002 👋 </h1>
 - 👀 I’m interested in programming and English language.<br>
 - 🌱 Nowadays I study everything. <br>
-- 📫 How to reach me:tg @RobinFem , <br>
+- 📫 How to reach me:tg @GabrielKennedy , <br>
 <p>- 😄 Pronouns: He / his </p>
 - ⚡ Fun fact: I'm in 6th grade
 <!---
